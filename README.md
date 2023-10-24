@@ -37,4 +37,4 @@ I'm a 23-year-old web developer.
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Loke-60000&theme=gruvbox&border_radius=4.5) -->
 # Time spent
-<a href="https://wakatime.com/@018b6087-6039-49dd-9f15-6c9cfc906dea"><img src="https://wakatime.com/badge/user/018b6087-6039-49dd-9f15-6c9cfc906dea.svg" /> </a>
+[![wakatime](https://wakatime.com/badge/user/018b6087-6039-49dd-9f15-6c9cfc906dea.svg)](https://wakatime.com/@018b6087-6039-49dd-9f15-6c9cfc906dea)

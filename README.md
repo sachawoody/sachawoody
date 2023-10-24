@@ -36,5 +36,5 @@ I'm a 23-year-old web developer.
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachawoody&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Loke-60000&theme=gruvbox&border_radius=4.5) -->
-#Time spent
+# Time spent
 <a href="https://wakatime.com/@018b6087-6039-49dd-9f15-6c9cfc906dea"><img src="https://wakatime.com/badge/user/018b6087-6039-49dd-9f15-6c9cfc906dea.svg" /> </a>

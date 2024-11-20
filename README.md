@@ -32,9 +32,13 @@ I'm a 24-year-old web developer.
 #
 
 ### 📊 Stats
+<h3 align='center'>📊 Stats</h3>
 
-![Sacha's GitHub stats](https://vercel-app-kappa-drab.vercel.app/api?username=sachawoody&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Loke-60000&theme=gruvbox&border_radius=4.5) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachawoody&show_icons=true&theme=material-palenight" />
+  <br>
+</div>
+
 # Time spent
 [![wakatime](https://wakatime.com/badge/user/018b6087-6039-49dd-9f15-6c9cfc906dea.svg)](https://wakatime.com/@018b6087-6039-49dd-9f15-6c9cfc906dea)

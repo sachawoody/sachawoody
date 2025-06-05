@@ -1,6 +1,12 @@
 # 👋 Hey, I'm Sacha 
 
-**`Web Developer | JavaScript | Python Enthusiast`**  
+
+<img align="left" src="https://raw.githubusercontent.com/sachawoody/sachawoody/main/assets/maverick.gif" alt="maverick.gif" width="200" />
+
+```csharp
+Web Developer | JavaScript | Python Enthusiast
+----------------
+```
 
 <p align="left">
    <a href="https://github.com/sachawoody?tab=followers">
@@ -8,6 +14,7 @@
    <a href="https://github.com/sachawoody?tab=repositories&sort=stargazers">
       <img alt="GitHub stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sachawoody?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
+
 
 ---
 
